@@ -1,0 +1,4 @@
+[submodule "third_party/Neet-YSLua"]
+	path = third_party/Neet-YSLua
+	url = https://codeberg.org/sall0-0p/Neet-YSLua
+	branch = main
